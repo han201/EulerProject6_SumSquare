@@ -1,0 +1,4 @@
+﻿  EulerProject_SumSquare.cpp
+c:\users\hahna\onedrive\documents\visual studio 2015\projects\eulerproject6_sumsquare\eulerproject6_sumsquare\eulerproject_sumsquare.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hahna\onedrive\documents\visual studio 2015\projects\eulerproject6_sumsquare\eulerproject6_sumsquare\eulerproject_sumsquare.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EulerProject6_SumSquare.vcxproj -> C:\Users\hahna\OneDrive\Documents\Visual Studio 2015\Projects\EulerProject6_SumSquare\Debug\EulerProject6_SumSquare.exe
